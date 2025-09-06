@@ -25,8 +25,7 @@ In **Week 2**, the project focused on **Exploratory Data Analysis (EDA)**, **Dat
 ---
 
 ## 📂 Files in Repository
-- `week1_project.ipynb` → Notebook for Week 1
-- `week2_project.ipynb` → Notebook for Week 2
+- `week1_project.ipynb` → Notebook for all Weeks. 
 - `Data.csv` → Global Natural Disasters dataset
 - `processed_data.csv` → Cleaned and transformed dataset from Week 2
 - `README.md` → Project description
