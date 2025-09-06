@@ -14,10 +14,24 @@ In **Week 1**, the goal was to reach the **Data Understanding stage**:
 
 This forms the foundation for deeper analysis and visualization in upcoming weeks.
 
+---
+
+## 📌 Week 2 Project
+In **Week 2**, the project focused on **Exploratory Data Analysis (EDA)**, **Data Transformation**, and **Feature Selection** to prepare the dataset for predictive modeling.
+- Created visualizations to explore the distribution of disaster types and their frequency over time.
+- Transformed data by handling missing values, converting date/time formats, and splitting coordinate data.
+- Performed feature selection by dropping redundant columns to create a clean dataset.
+
+---
+
 ## 📂 Files in Repository
-- `week1_project.ipynb` → Notebook for Week 1  
-- `Data.csv` → Global Natural Disasters dataset  
-- `README.md` → Project description  
+- `week1_project.ipynb` → Notebook for Week 1
+- `week2_project.ipynb` → Notebook for Week 2
+- `Data.csv` → Global Natural Disasters dataset
+- `processed_data.csv` → Cleaned and transformed dataset from Week 2
+- `README.md` → Project description
+
+---
 
 ## ⚙️ How to Run
 1. Clone the repository  
